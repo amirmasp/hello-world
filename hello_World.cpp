@@ -2,8 +2,16 @@
 using namespace std;
 
 int main() {
-
-  cout << "hello world!" << endl;
+  string amir;
+  
+  cin >> amir;
+  
+  if (amir = "amir") {
+    cout << "hello world!" << endl;
+  }
+  elae {
+    cout <<"hello world anywat!" << endl;
+  }
   
   return 0;
 }  
