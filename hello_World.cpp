@@ -7,7 +7,7 @@ int main() {
   
   cin >> amir;
   
-  if (amir = "amir") {
+  if (amir == "amir") {
     cout << "hello world!" << endl;
   }
   elae {
